@@ -1,0 +1,30 @@
+
+
+.bot {
+    bottom: 0;
+    right : 0;
+    position: fixed;
+    width: 350px;
+    
+}
+
+.chatButtonOpen {
+    float: right;
+    width:15%;
+    height:15%
+}
+.chatButtonOpen:hover{
+    width: 16%;
+    height: 16%;
+}
+.chatButtonClose {
+    font-size: 20px;
+    float: right;
+    width: 100%;
+    padding: 8px;
+    background-color: #157DEC;
+    color:white;
+    border:none;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}

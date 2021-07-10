@@ -1,0 +1,69 @@
+.button1{
+    color: white;
+    width: inherit;
+    height: 40px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.8);
+    border: transparent;
+    transition: background 0.5s;
+}
+.button2{
+    color: white;
+    width: inherit;
+    height: 40px;
+    border-radius: 10px;
+    background: rgba(0,255,0,0.6);
+    border: transparent;
+    transition: background 0.5s;
+}
+.button1:hover{
+    background: rgba(0,0,0,0.9);
+    font-size: large
+}
+.button2:hover{
+    background: rgba(0,255,0,0.9);
+    font-size: large
+}
+span{
+    font-size: 20px
+}
+.er{
+    height:330px;
+    width: inherit;
+    overflow: hidden;
+}
+.cal{
+    height: 330px;
+    width: inherit;
+    display: none;
+    overflow: hidden;
+}
+.cd{
+    height: 330px;
+    width: inherit;
+    display: none;
+    overflow: hidden;
+}
+.btn:focus{
+   box-shadow: none;
+}
+#bt2,#bt3{
+    background: rgb(225,246,255);
+}
+.lab{
+    color:black;
+    font-size:15px;
+    font:bold;
+    padding-left: 0%;
+}
+.from{
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.1))
+}
+.to{
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.1))
+}
+.dat{
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.1))
+}
+
+

@@ -1,0 +1,7 @@
+.btn:focus{
+    box-shadow: none;
+ }
+ #but1{
+    color:white;
+    background: rgb(56,123,225);
+}

@@ -1,0 +1,13 @@
+.c1{
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 10px;
+}
+.signup{
+    border: transparent;
+    background: transparent;
+    font-size: 15px
+}
+.signup:hover{
+    color:white;
+    text-decoration: underline;
+}
